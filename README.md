@@ -19,6 +19,7 @@ I actively document my research and technical exercises to refine my skills. You
 
 ## 💻​ PROJECTS
 
+> #### [HomeLab](https://github.com/Paius-George/HomeLab) | PROXMOX SERVER
 > #### [Gralhix OSINT](https://github.com/Paius-George/OSINT-Gralhix) | OSINT EXCERCISES WRITE-UPS
 > #### [Proxy](https://github.com/Paius-George/proxy) | DOCUMENTATION ABOUT PROXY
 > #### [Bad USB](https://github.com/Paius-George/Bad-USB) | DOCUMENTATION ABOUT BAD USB
