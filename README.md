@@ -20,6 +20,7 @@ I actively document my research and technical exercises to refine my skills. You
 ## 💻​ PROJECTS
 
 > #### [HomeLab](https://github.com/Paius-George/HomeLab) | PROXMOX SERVER
+> #### [Python Port Scanner](https://github.com/Paius-George/Python-Port-Scanner) | PYTHON PORT SCANNER
 > #### [LLM](https://github.com/Paius-George/LLM/) | LLM Setup + Guide
 > #### [Gralhix OSINT](https://github.com/Paius-George/OSINT-Gralhix) | OSINT EXCERCISES WRITE-UPS
 > #### [Proxy](https://github.com/Paius-George/proxy) | DOCUMENTATION ABOUT PROXY
