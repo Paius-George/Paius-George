@@ -18,7 +18,7 @@ I actively document my research and technical exercises to refine my skills. You
 ---
 
 ## 💻​ PROJECTS
-
+> #### [Osint Station](https://github.com/Paius-George/osint-station) | OSINT DASHBOARD
 > #### [HomeLab](https://github.com/Paius-George/HomeLab) | PROXMOX SERVER
 > #### [Python Port Scanner](https://github.com/Paius-George/Python-Port-Scanner) | PYTHON PORT SCANNER
 > #### [LLM](https://github.com/Paius-George/LLM/) | LLM Setup + Guide
