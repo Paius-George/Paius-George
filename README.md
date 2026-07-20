@@ -18,6 +18,8 @@ I actively document my research and technical exercises to refine my skills. You
 ---
 
 ## 💻​ PROJECTS
+> #### [Github Username Hunter](https://github.com/Paius-George/Github-Username-Hunter) | GITHUB USERNAME HUNTER
+> #### [Stardew Valley Auto-Fisher](https://github.com/Paius-George/Stardew-Valley-Auto-Fisher) | STARDEW VALLEY AUTO-FISHER
 > #### [Osint Station](https://github.com/Paius-George/osint-station) | OSINT DASHBOARD
 > #### [HomeLab](https://github.com/Paius-George/HomeLab) | PROXMOX SERVER
 > #### [Python Port Scanner](https://github.com/Paius-George/Python-Port-Scanner) | PYTHON PORT SCANNER
