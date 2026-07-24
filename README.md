@@ -1,1 +1,1 @@
-<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/c8836dc6-14a9-4f13-81a7-76834da070d6" />
+<img width="1080" height="1080" alt="dithering-effect" src="https://github.com/user-attachments/assets/b57c86bd-81bb-44d2-a678-78db9108e827" />
